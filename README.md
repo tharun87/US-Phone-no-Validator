@@ -1,4 +1,4 @@
-US Phone validator. (This is part FreeCodeCamp Project)
+US Phone validator. (This is part of FreeCodeCamp project)
 
 It accepts phone nos in the below formats.
 
